@@ -1,4 +1,4 @@
-<img src="MLEndDatasets.github.io/imgs/mlend_logo.png" height="50"/>
+<!-- <img src="MLEndDatasets.github.io/imgs/mlend_logo.png" height="50"/> -->
 
 <div align="center">
   <h1> MLEnd Datasets</h1>
